@@ -24,7 +24,7 @@ response:
 Clone esse projeto
 
 ```bash
-$ git clone https://github.com/lumamontes//backend-leitor-de-frases.git
+$ git clone https://github.com/lumamontes/backend-leitor-de-frases.git
 ```
 
 Para iniciá-lo, siga os passos abaixo:
